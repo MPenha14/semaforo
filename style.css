@@ -1,0 +1,47 @@
+
+
+.container{
+    background-color: darkkhaki;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.semaforo{
+    background-color: black;
+    width: 180px;
+    height: 400px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 40px;
+    
+}
+ #vermelho{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 50px;
+ }
+
+ #amarelo{
+    background-color: yellow;
+     height: 80px;
+     width: 80px;
+     margin: auto;
+     margin-top: 30px;
+     border-radius: 50px;
+
+ }
+
+ #verde{
+    background-color: green;
+     height: 80px;
+     width: 80px;
+     margin: auto;
+     margin-top: 30px;
+     border-radius: 50px;
+ }
