@@ -18,7 +18,7 @@
     border-radius: 40px;
     
 }
- #vermelho{
+ .vermelho{
     background-color: red;
     height: 80px;
     width: 80px;
@@ -27,7 +27,7 @@
     border-radius: 50px;
  }
 
- #amarelo{
+ .amarelo{
     background-color: yellow;
      height: 80px;
      width: 80px;
@@ -37,7 +37,7 @@
 
  }
 
- #verde{
+ .verde{
     background-color: green;
      height: 80px;
      width: 80px;
@@ -45,3 +45,7 @@
      margin-top: 30px;
      border-radius: 50px;
  }
+
+.desactive{
+    background-color: #444;
+}
